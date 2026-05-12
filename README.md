@@ -130,7 +130,7 @@ This bot uses AI for automated responses. All messages are processed automatical
 ## 👨‍💻 Author
 
 **Jatin**
-- GitHub: [@your-username]
+- GitHub: JATIN2563
 - Built with n8n + Google Gemini
 
 ## 📄 License
